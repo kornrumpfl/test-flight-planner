@@ -18,7 +18,7 @@ function App() {
       body: '{"fromICAO":"EHAM","toICAO":"KJFK"}',
       method: "POST",
       headers: {
-        Autorization: "Basic IXeuLFoRVX0lrF2m63tIbieX0VD7WgCaza0YR7eq:",
+        Autorization: "Basic ",
         "Content-Type": "application/json",
       },
     });
